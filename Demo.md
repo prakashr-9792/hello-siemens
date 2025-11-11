@@ -8,13 +8,6 @@ Use headings to organize content into sections. They help readers scan and navig
 ## H2
 Use headings to organize content into sections. They help readers scan and navigate easily.
 
-### H3
-Use headings to organize content into sections. They help readers scan and navigate easily.
-
-#### H4
-Use headings to organize content into sections. They help readers scan and navigate easily.
-
-
 ## Paragraphs
 This is a paragraph in Markdown.  
 Just leave a blank line between blocks of text to separate them.
@@ -58,4 +51,6 @@ def hello():
 |----------|----------|----------|
 | Row 1    | Data     | More     |
 | Row 2    | Info     | Details  |
+| Row 3    | Info     | Data     |
+
 
