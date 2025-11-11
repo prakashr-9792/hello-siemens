@@ -1,0 +1,47 @@
+# 📘 MkDocs-Specific Markdown Syntax Examples
+
+This document demonstrates various Markdown extensions and features supported by MkDocs.
+
+---
+
+## 1. Admonitions
+
+!!! note
+    This is a note box. Use it to highlight helpful information.
+
+!!! warning
+    Be careful with this step. It may cause unexpected results.
+
+---
+
+## 2. Task Lists
+
+- [x] Completed task
+- [ ] Pending task
+- [ ] Review documentation
+
+---
+
+## 3. Footnotes
+
+This is a statement with a footnote.[^1]
+
+[^1]: This is the footnote text providing additional context.
+
+---
+
+## 4. Tables
+
+| Feature     | Supported |
+|-------------|-----------|
+| Admonitions | ✅ Yes    |
+| Footnotes   | ✅ Yes    |
+| Mermaid     | ✅ Yes    |
+
+---
+
+## 5. Code Blocks with Syntax Highlighting
+
+```python
+def greet(name):
+    return f"Hello, {name}!"
